@@ -20,10 +20,10 @@ public class main extends JFrame {
 	public static int pago = 0;
 	public static int totalFichas=0;
 	
-	private pagoT pt;
+/*	private pagoT pt;
 	public void setPagoT(pagoT pt) {
 		this.pt = pt;
-	}
+	}*/
 	private void continuarBtn(java.awt.event.ActionEvent avt) {
 		fichasM fm  = new fichasM();
 		fm.setmain(this);
